@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66ef4683-0cc3-49c0-9ed5-05fbc4d88a82" /># Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
